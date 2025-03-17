@@ -18,6 +18,7 @@ import projectImg02 from '@/assets/portfolio-image-02.png'
 import projectImg03 from '@/assets/portfolio-image-03.png'
 import projectImg04 from '@/assets/portfolio-image-04.png'
 
+
 export default function Home () {
     return (
         <div>
@@ -29,15 +30,15 @@ export default function Home () {
                  <div className={styles.headerContent}>
                         <h5>Hello  I m </h5>
                         <h1>Luthfi</h1>
-                        <p>A Passionate &nbsp;
-                        <span>
+                        <p>A Passionate as a Software Engineer &nbsp;
+                        {/* <span>
                             <ReactTyped 
                             strings={['Web Designer', 'App designer', 'UI / UX Designer']}
                             typeSpeed={40}
                             loop={true}
                             backSpeed={40}
                             ></ReactTyped>
-                        </span>
+                        </span> */}
                         </p>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis assumenda deleniti corrupti incidunt magnam totam beatae facilis temporibus quidem illo! Ratione, dolore assumenda amet quas enim corporis explicabo ducimus cum!</p>
 
