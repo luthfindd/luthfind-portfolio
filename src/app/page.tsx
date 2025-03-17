@@ -11,8 +11,6 @@ import frontend from '@/assets/Frontend.png';
 import Backend from '@/assets/Backend.png';
 import UiUxDesign from '@/assets/UiUx.png';
 
-import { ReactTyped } from "react-typed";
-
 import projectImg01 from '@/assets/portfolio-image-01.png'
 import projectImg02 from '@/assets/portfolio-image-02.png'
 import projectImg03 from '@/assets/portfolio-image-03.png'
